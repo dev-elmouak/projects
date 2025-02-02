@@ -1,5 +1,5 @@
 [{
-    "img": "./images/digital-clock",
+    "img": "./images/digital-clock.png",
     "title": "Digital clock",
     "desc": "A digital clock shows the time with numbers instead of hands.",
     "link": "https://dev-elmouak.github.io/projects/digital-clock/"
