@@ -2,7 +2,7 @@
     "img": "https://dev-elmouak.github.io/projects/digital-clock/digital-clock.png",
     "title": "Digital clock",
     "desc": "A digital clock shows the time with numbers instead of hands.",
-    "tech": "HTML,CSS,JAVASCRIPT",
+    "tech": "html css javascript",
     "link": "https://dev-elmouak.github.io/projects/digital-clock/",
     "code": "https://github.com/dev-elmouak/projects",
     "status": "complete"
