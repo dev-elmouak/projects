@@ -6,4 +6,13 @@
     "link": "https://dev-elmouak.github.io/projects/digital-clock/",
     "code": "https://github.com/dev-elmouak/projects",
     "status": "complete"
+},
+{
+    "img": "https://dev-elmouak.github.io/projects/instagram-dashboard/img",
+    "title": "dashboard",
+    "desc": "instagram dashboard",
+    "tech": "html css javascript",
+    "link": "https://dev-elmouak.github.io/projects/instagram-dashboard/",
+    "code": "https://github.com/dev-elmouak/projects",
+    "status": "progress"
 }]
